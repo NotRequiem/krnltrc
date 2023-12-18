@@ -1,4 +1,4 @@
-# Event Monitoring with Windows Trace API
+# Kernel Event Monitoring
 This C code demonstrates how to do a simple kernel event monitoring mechanism. It captures various events related to driver loading, unloading, image loading, image unloading, and virtual memory allocation.
 
 ## Prerequisites
